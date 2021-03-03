@@ -1,5 +1,11 @@
 # vue-crashcourse
 
+#resources
+
+https://www.youtube.com/watch?v=qZXt1Aom3Cs
+
+https://github.com/bradtraversy/vue-crash-2021
+
 ## Project setup
 ```
 npm install
